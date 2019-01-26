@@ -1,0 +1,12 @@
+## Noción
+
+* Es una oficina que actúa como intermediaria entre [pasajeros ](https://app.nuclino.com/Curso-LEL/Agencia-de-Viajes/Sujeto-Pasajero-1aca8769-d624-47f7-9373-9682438afab4)y servicios de viajes proporcionados por [aerolíneas](https://app.nuclino.com/Curso-LEL/Agencia-de-Viajes/Sujeto-Aerolnea-acfa4b6c-42fc-4137-bf9b-967ea8e6daa4), [hoteles](https://app.nuclino.com/Curso-LEL/Agencia-de-Viajes/Sujeto-Administracin-del-hotel-649d106e-cfaf-419e-a0dd-8bff5a7620fc) y [empresas arrendadoras de autos](https://app.nuclino.com/Curso-LEL/Agencia-de-Viajes/Sujeto-Empresa-arrendadora-de-autos-e0cac858-9bdf-4640-97fd-7dd92834c375).
+
+## Impacto
+
+* [Cotiza ](https://app.nuclino.com/Curso-LEL/Agencia-de-Viajes/Verbo-Cotizar-vuelo-b6ed1a67-e68e-4113-94b9-c72d55fc6716)el costo del [vuelo](https://app.nuclino.com/Curso-LEL/Agencia-de-Viajes/Objeto-Vuelo-71851f91-02b2-4cd3-b33b-7fea9bd789c9).
+* [Cotiza ](https://app.nuclino.com/Curso-LEL/Agencia-de-Viajes/Verbo-Cotizar-hotel-446e150c-f0d7-4108-991e-97b447e26162)el costo del [hotel](https://app.nuclino.com/Curso-LEL/Agencia-de-Viajes/Servicio-Hotel-a7d351ed-40cb-4201-b372-928d7064930c).
+* [Cotiza ](https://app.nuclino.com/Curso-LEL/Agencia-de-Viajes/Verbo-Cotizar-auto-1906e73e-427d-470e-808f-dc8502a65fde)el costo del [auto](https://app.nuclino.com/Curso-LEL/Agencia-de-Viajes/Servicio-Auto-bf39c08c-4d7e-4af8-a986-76e5fbd5390a).
+* Brinda la disponibilidad de [vuelos](https://app.nuclino.com/Curso-LEL/Agencia-de-Viajes/Objeto-Vuelo-71851f91-02b2-4cd3-b33b-7fea9bd789c9), [hoteles ](https://app.nuclino.com/Curso-LEL/Agencia-de-Viajes/Objeto-Hotel-a7d351ed-40cb-4201-b372-928d7064930c)y [autos ](https://app.nuclino.com/Curso-LEL/Agencia-de-Viajes/Objeto-Auto-bf39c08c-4d7e-4af8-a986-76e5fbd5390a)al [pasajero](https://app.nuclino.com/Curso-LEL/Agencia-de-Viajes/Sujeto-Pasajero-1aca8769-d624-47f7-9373-9682438afab4).
+* Brinda los comprobantes de pago y cancelación de reservas al [pasajero](https://app.nuclino.com/Curso-LEL/Agencia-de-Viajes/Sujeto-Pasajero-Husped-Cliente-1aca8769-d624-47f7-9373-9682438afab4).
+* Envía y recibe dinero de una [aerolínea](https://app.nuclino.com/Curso-LEL/Agencia-de-Viajes/Sujeto-Aerolnea-acfa4b6c-42fc-4137-bf9b-967ea8e6daa4), [administración del hotel](https://app.nuclino.com/Curso-LEL/Agencia-de-Viajes/Sujeto-Administracin-del-hotel-649d106e-cfaf-419e-a0dd-8bff5a7620fc) y [empresas arrendadoras de autos](https://app.nuclino.com/Curso-LEL/Agencia-de-Viajes/Sujeto-Empresa-arrendadora-de-autos-e0cac858-9bdf-4640-97fd-7dd92834c375).

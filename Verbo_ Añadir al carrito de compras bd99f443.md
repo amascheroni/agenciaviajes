@@ -1,0 +1,12 @@
+## Noción
+
+* Acción que realiza el [pasajero](https://app.nuclino.com/Curso-LEL/Agencia-de-Viajes/Sujeto-Pasajero-Husped-Cliente-1aca8769-d624-47f7-9373-9682438afab4) para agregar [servicios extras](https://app.nuclino.com/Curso-LEL/Agencia-de-Viajes/Objeto-Servicio-d10cf9fa-4a54-493e-8262-5ba02b9a295b) al carrito de compras luego de realizar una [reserva](https://app.nuclino.com/Curso-LEL/Agencia-de-Viajes/Objeto-Reserva-f6cb1208-721f-4cea-895b-40a0e9825210).
+
+## Impacto
+
+* El [pasajero](https://app.nuclino.com/Curso-LEL/Agencia-de-Viajes/Sujeto-Pasajero-Husped-Cliente-1aca8769-d624-47f7-9373-9682438afab4) selecciona la opción de comprar un [vuelo](https://app.nuclino.com/Curso-LEL/Agencia-de-Viajes/Servicio-Vuelo-71851f91-02b2-4cd3-b33b-7fea9bd789c9), [hotel](https://app.nuclino.com/Curso-LEL/Agencia-de-Viajes/Servicio-Hotel-a7d351ed-40cb-4201-b372-928d7064930c) o [auto](https://app.nuclino.com/Curso-LEL/Agencia-de-Viajes/Servicio-Auto-bf39c08c-4d7e-4af8-a986-76e5fbd5390a).
+* Se muestran [servicios extras](https://app.nuclino.com/Curso-LEL/Agencia-de-Viajes/Objeto-Servicio-d10cf9fa-4a54-493e-8262-5ba02b9a295b) que el [pasajero](https://app.nuclino.com/Curso-LEL/Agencia-de-Viajes/Sujeto-Pasajero-Husped-Cliente-1aca8769-d624-47f7-9373-9682438afab4) puede elegir.
+* El [pasajero](https://app.nuclino.com/Curso-LEL/Agencia-de-Viajes/Sujeto-Pasajero-Husped-Cliente-1aca8769-d624-47f7-9373-9682438afab4) selecciona la opción añadir a favoritos de cada [servicio extra](https://app.nuclino.com/Curso-LEL/Agencia-de-Viajes/Objeto-Servicio-d10cf9fa-4a54-493e-8262-5ba02b9a295b).
+* El [pasajero](https://app.nuclino.com/Curso-LEL/Agencia-de-Viajes/Sujeto-Pasajero-Husped-Cliente-1aca8769-d624-47f7-9373-9682438afab4) avanza a la página de pago.
+* Se muestra el costo total que incluye el servicio de [vuelo](https://app.nuclino.com/Curso-LEL/Agencia-de-Viajes/Servicio-Vuelo-71851f91-02b2-4cd3-b33b-7fea9bd789c9), [hotel](https://app.nuclino.com/Curso-LEL/Agencia-de-Viajes/Servicio-Hotel-a7d351ed-40cb-4201-b372-928d7064930c) o [auto](https://app.nuclino.com/Curso-LEL/Agencia-de-Viajes/Servicio-Auto-bf39c08c-4d7e-4af8-a986-76e5fbd5390a), más el de los [servicios extra](https://app.nuclino.com/Curso-LEL/Agencia-de-Viajes/Objeto-Servicio-d10cf9fa-4a54-493e-8262-5ba02b9a295b).
+* Los [servicios extras](https://app.nuclino.com/Curso-LEL/Agencia-de-Viajes/Objeto-Servicio-d10cf9fa-4a54-493e-8262-5ba02b9a295b) se agotan.
